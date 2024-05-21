@@ -14,18 +14,10 @@ Hello! I'm rroqlcka, a passionate and versatile developer with a strong foundati
 - **Python**: Capable of developing robust backend services, web applications, and automation scripts.
 - **Java**: Proficient in building scalable and efficient applications using Java.
 
-## Projects
-Here are a few projects that showcase my skills:
-
-1. **[Project Name 1](link-to-project)**: A brief description of what this project does and the technologies used.
-2. **[Project Name 2](link-to-project)**: A brief description of what this project does and the technologies used.
-3. **[Project Name 3](link-to-project)**: A brief description of what this project does and the technologies used.
-
 ## Contact
 Feel free to reach out to me for collaboration or any inquiries:
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](link-to-linkedin)
-- **GitHub**: [Your GitHub Profile](link-to-github)
+- **Email**: [dbstlrrla00@hanyang.ac.kr](mailto:dbstlrrla00@hanyang.ac.kr)
+- **LinkedIn**: [[Your LinkedIn Profile](https://www.linkedin.com/in/yoon-sik-kim/)](link-to-linkedin)
 
 Thank you for visiting my profile. Happy coding!
