@@ -18,6 +18,6 @@ Hello! I'm rroqlcka, a passionate and versatile developer with a strong foundati
 Feel free to reach out to me for collaboration or any inquiries:
 
 - **Email**: [dbstlrrla00@hanyang.ac.kr](mailto:dbstlrrla00@hanyang.ac.kr)
-- **LinkedIn**: [[Your LinkedIn Profile](https://www.linkedin.com/in/yoon-sik-kim/)](link-to-linkedin)
+- **LinkedIn**: [[LinkedIn Profile](https://www.linkedin.com/in/yoon-sik-kim/)]
 
 Thank you for visiting my profile. Happy coding!
